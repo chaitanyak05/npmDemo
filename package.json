@@ -1,0 +1,21 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "An npm Package for Node.js to retrieve Treehouse profile information ",
+  "main": "(profile.js) ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/chaitanyak05/npmDemo)"
+  },
+  "keywords": [
+    "treehouse",
+    "profile",
+    "badges",
+    "points"
+  ],
+  "author": "chaitanya, saihari",
+  "license": "MIT"
+}
